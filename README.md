@@ -33,7 +33,7 @@
 ### One-Line Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ZOREX.git
+https://github.com/Sk-Traitor/ZOREX-WiFi-Cracker
 cd ZOREX
 chmod +x install.sh && sudo ./install.sh
 
